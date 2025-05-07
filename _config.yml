@@ -24,9 +24,9 @@ googlescholar_username: LBP1JiYAAAAJ
 
 # Additional icon links
 additional_links:
-- icon: fab fa-twitter
+- icon: fa-solid fa-a
   url: https://ui.adsabs.harvard.edu/public-libraries/mftIqxqeSg2ElCDwWwv0jw
-# - title: another link
+# - title: another link 
 #   icon: font awesome brand icon name (eg. fab fa-twitter) (https://fontawesome.com/icons?d=gallery&s=brands&m=free)
 #   url: Link url (eg. https://google.com)
 
