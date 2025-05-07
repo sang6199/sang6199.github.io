@@ -93,6 +93,20 @@
             </a>
           </li>
         {%- endif -%}
+
+        {%- if site.ads_url -%}
+           <li>
+             <a target="_blank"
+                href="{{ site.ads_url }}"
+                class="button button--sacnite button--round-l">
+               <img 
+                 src="{{ site.ads_icon_path | relative_url }}" 
+                 alt="ADS" 
+                 class="header-icon-img"
+               >
+             </a>
+           </li>
+        {%- endif -%}
         {%- if site.googlescholar_username -%}
           <li>
             <a target="_blank" href="https://scholar.google.com/citations?user={{ site.googlescholar_username| escape }}" class="button button--sacnite button--round-l">
