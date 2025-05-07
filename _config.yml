@@ -29,7 +29,6 @@ ads_icon_path: "/images/transparent_logo.svg"
 # about_title: About Me (Use this to override about section title)
 about_profile_image: images/prof_pic.jpg 
 about_content: | # this will include new lines to allow paragraphs
-  Write an awesome description about yourself here, this supports markdown, so you can add [links](http://foobar.com) and highlight things <mark>like this</mark>.
 
 content:
   - title: Education
@@ -39,8 +38,6 @@ content:
         title: Yonsei University
         sub_title: B.S. in Astronomy & Physics 
         caption: 2015/03 - 2021/02
-        # quote: >
-        # description: | # this will include new lines to allow paragraphs
         
       - layout: top-left
         title: Yonsei University
