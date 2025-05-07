@@ -1,5 +1,5 @@
 ul.icons a:hover {
-  background: rgba(255, 255, 255, 255);
+  background: rgba(0, 0, 0, 0);
 }
 
 ul.icons li {
@@ -21,7 +21,7 @@ ul.icons a {
   box-shadow: none;
   padding:0;
   border-radius: 100%;
-  color: #aaa;
+  color: #ffffff;
 }
 
 .icons i {
@@ -45,18 +45,11 @@ ul.icons a {
 .dark {
   .icons i {
     background: none;
-    color: #222;
+    color: #ffffff;
   }
 
   .icons a:hover i {
-    color: #e6e6e6;
+    color: #ffffff;
   }
 }
 
-
-ul.icons a {
-  background: none !important;
-}
-ul.icons a:hover {
-  background: none !important;
-}
