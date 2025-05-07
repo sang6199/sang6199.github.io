@@ -20,8 +20,12 @@ address: Department of Astronomy, Yonsei University, 637B Science Hall, 50 Yonse
 darkmode: false
 
 # Social links
-orcid_username: 0000-0001-7148-6915
-googlescholar_username: LBP1JiYAAAAJ
+orcid_url: https://orcid.org/0000-0001-7148-6915
+orcid_icon_path: "Orcid_icon.png"
+
+google_scholar_url: https://scholar.google.com/citations?user=LBP1JiYAAAAJ&hl=en&oi=ao
+google_scholar_icon_path: "klipartz.com.png"
+
 ads_url: https://ui.adsabs.harvard.edu/public-libraries/mftIqxqeSg2ElCDwWwv0jw
 ads_icon_path: "/images/transparent_logo.svg"
 
