@@ -67,7 +67,7 @@ content:
       - <ins>Weak-lensing Analysis of the Complex Cluster Merger A746 with Subaru/Hyper Suprime-Cam</ins>, HyeongHan, K., Cho, H., Jee, M. J., Wittman, D., **Cha, S.**, Lee, W., Finner, K., Rajpurohit, K., Brüggen, M., Forman, W., Jones, C., van Weeren, R., Botteon, A., Lovisari, L., Stroe, A., Domínguez-Fernández, P., O’Sullivan, E., Vrtilek, J., 2024, ApJ, 962, 100. [doi.org/10.3847/1538-4357/ad1bcc](https://iopscience.iop.org/article/10.3847/1538-4357/ad1bcc)<br/><br/>
       - <ins>Weak-lensing Mass Bias in Merging Galaxy Clusters</ins>, Lee, W., **Cha, S.**, Jee, M. J., Nagai, D., King, L., ZuHone, J., Chadayammuri, U., Felix, S., Finner, K., 2023, ApJ, 945, 71. [doi.org/10.3847/1538-4357/acb76b](https://iopscience.iop.org/article/10.3847/1538-4357/acb76b)<br/><br/>
       - <ins>Weak-lensing Mass Reconstruction of Galaxy Clusters with a Convolutional Neural Network</ins>, Hong, S. E., Park, S., Jee, M. J., Bak, D., **Cha, S.**, 2021, ApJ, 923, 266. [doi.org/10.3847/1538-4357/ac3090](https://iopscience.iop.org/article/10.3847/1538-4357/ac3090)<br/><br/>
-        - title: Publications
+      
     layout: text
     content: | # this will include new lines to allow paragraphs
       <span style="font-size: 25px; font-weight:bold">First Author</span>
