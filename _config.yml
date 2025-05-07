@@ -78,7 +78,7 @@ content:
   - title: Fellowship & Awards
     layout: list
     content:
-      - layout: top-left
+      - layout: left
         title: Integrated Undergraduate-and-Graduate Program Scholarship 
         sub_title: Yonsei University
         caption: 2021 – 2023
