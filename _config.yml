@@ -69,6 +69,7 @@ content:
         title: Yonsei University
         sub_title: Integrated course in Astronomy
         caption: 2021/03 - present
+        description: Supervisor: Prof. Myungkook. James Jee
 
   - title: Projects # Title for the section
     layout: list # Type of content section (list/text)
