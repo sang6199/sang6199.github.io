@@ -61,10 +61,10 @@ content:
         quote: >
           Supervisor: Prof. Myungkook. James Jee
 
-  - title: Publications
+  - title: Publications - First Authors
     layout: text
     content: | # this will include new lines to allow paragraphs
-      A High-Caliber View of the Bullet Cluster Through JWST Strong and Weak Lensing Analyses, **Cha, S.**, Cho, B. Y., Joo, H., Lee, W., HyeongHan, K., Scofield, Z. P., Finner, K., Jee, M. J., 2025, arXiv:2503.21870, accepted in ApJL
+      <ins>A High-Caliber View of the Bullet Cluster Through JWST Strong and Weak Lensing Analyses<ins>, **Cha, S.**, Cho, B. Y., Joo, H., Lee, W., HyeongHan, K., Scofield, Z. P., Finner, K., Jee, M. J., 2025, arXiv:2503.21870, accepted in ApJL
 
 
   - title: Projects # Title for the section
