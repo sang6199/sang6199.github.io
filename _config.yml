@@ -10,11 +10,7 @@ name: Sangjun Cha
 title: Graduate student (Ph.D candidate)
 email: sang6199(at)yonsei.ac.kr
 address: Department of Astronomy, Yonsei University, 637B Science Hall, 50 Yonsei-ro, Seodaemun-gu, Seoul, 03722, South Korea 
-# email_title: Email (Email title override)
-# phone: Your phone number (optional)
-# phone_title: Phone (Phone title override)
-# website: Your website (eg. https://google.com)(optional)
-# website_title: Web (Website title override)
+cv_url: "/assets/cv.pdf"
 
 # Dark Mode (true/false/never)
 darkmode: false
