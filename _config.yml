@@ -6,7 +6,7 @@ repository: Git repository where your resume will be hosted, only required if yo
 version: 2
 
 # Personal info
-name: Your Name
+name: Sangjun Cha
 title: Your job title
 email: Your email (optional)
 # email_title: Email (Email title override)
@@ -30,8 +30,8 @@ linkedin_username: jekyll
 xing_username: jekyll
 pinterest_username: jekyll
 youtube_username: jekyll
-orcid_username: 0000-0000-0000-0000
-googlescholar_username: D847cGsAAAAJ
+orcid_username: 0000-0001-7148-6915
+googlescholar_username: LBP1JiYAAAAJ
 
 # Additional icon links
 additional_links:
