@@ -25,7 +25,7 @@ googlescholar_username: LBP1JiYAAAAJ
 # Additional icon links
 additional_links:
 - title: NASA/ADS
-  icon: fas fa-at
+  icon: fas fa-a
   url: https://ui.adsabs.harvard.edu/public-libraries/mftIqxqeSg2ElCDwWwv0jw
 # - title: another link 
 #   icon: font awesome brand icon name (eg. fab fa-twitter) (https://fontawesome.com/icons?d=gallery&s=brands&m=free)
@@ -64,7 +64,7 @@ content:
   - title: Publications
     layout: text
     content: | # this will include new lines to allow paragraphs
-      <span style="font-size: 25px; font-weight:bold">First Authors</span>
+      <span style="font-size: 25px; font-weight:bold">First Author</span>
       <br/><br/>
       - <ins>A High-Caliber View of the Bullet Cluster Through JWST Strong and Weak Lensing Analyses</ins>, **Cha, S.**, Cho, B. Y., Joo, H., Lee, W., HyeongHan, K., Scofield, Z. P., Finner, K., Jee, M. J., 2025, arXiv:2503.21870, accepted in ApJL<br/><br/>
       - <ins>Weak-lensing Mass Reconstruction of Galaxy Clusters with a Convolutional Neural Network. II. Application to Next-Generation Wide-Field Surveys</ins>, **Cha, S.**, Jee, M. J., Hong, S. E., Park, S., Bak, D., Kim, T., 2025, ApJ, 981, 52<br/><br/>
@@ -72,7 +72,7 @@ content:
       - <ins>Model-independent Mass Reconstruction of the Hubble Frontier Field Clusters with MARS Based on Self-consistent Strong-lensing data</ins>, **Cha, S.**, Jee, M. J., 2023, ApJ, 951, 140<br/><br/>
       - <ins>MARS: A New Maximum-entropy-regularized Strong Lensing Mass Reconstruction Method</ins>, **Cha, S.**, Jee, M. J., 2022, ApJ, 931, 127<br/><br/><br/><br/>
             
-      <span style="font-size: 25px; font-weight:bold">Co-Authors</span>
+      <span style="font-size: 25px; font-weight:bold">Co-Author</span>
       <br/><br/>
       - <ins>Is Earendel a Star?: Investigating the Sunrise Arc Using JWST Strong and Weak Gravitational Lensing Analyses</ins>, Scofield, Z. P., Jee, M. J., **Cha, S.**, Park, H., 2025, arXiv:2504.08879, submitted to ApJ<br/><br/>
       - <ins>A dynamical mass measure of an inactive black hole in the distant universe</ins>, Newman, A. B., Gu, M., Belli, S., Ellis, R. S., Gangula, S., Greene, J. E., Walsh, J., Suyu, S. H., Ertl, S., Caminha, G. B., Granata, G., Grillo, C., Schuldt, S., Barone, T., Bird, S., Glazebrook, K., Jafariyazani, M., Kriek, M., Matthews, A., Morishita, T., Nanayakkara, T., Pierel, J. D. R., Acebron, A., Bergamini, P., **Cha, S.**, Diego, J. M., Foo, N., Frye, B. L., Fudamoto, Y., Jee, M. J., Kamieneski, P. S., Koekemoer, A. M., Meena, A. K., Nishida, S., Oguri, M., Rosati, P., Zitrin, A., 2025, arXiv:2503.17478, submitted<br/><br/>
