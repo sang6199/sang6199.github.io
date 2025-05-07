@@ -76,36 +76,34 @@ content:
       - <ins>Weak-lensing Mass Reconstruction of Galaxy Clusters with a Convolutional Neural Network</ins>, Hong, S. E., Park, S., Jee, M. J., Bak, D., **Cha, S.**, 2021, ApJ, 923, 266. [doi.org/10.3847/1538-4357/ac3090](https://iopscience.iop.org/article/10.3847/1538-4357/ac3090)<br/><br/>
       
   - title: Fellowship & Awards
-    layout: list
-    content:
-      - layout: left
-        title: <span style="font-size: 25px; font-weight:bold">Integrated Undergraduate-and-Graduate Program Scholarship </span>
-        sub_title: Yonsei University
-        caption: 2021 – 2023
-        quote: >
-          Three-year full-tuition
+    layout: text
+    content: | # this will include new lines to allow paragraphs
+      <span style="font-size: 20px; font-weight:bold">Integrated Undergraduate-and-Graduate Program Scholarship (Three-year full-tuition) </span><br/><br/>
+      <span style="font-size: 15px">Yonsei University </span><br/><br/>  sub_title: Yonsei University
+      2021 – 2023
+          
         
-      - layout: top-left
-        title: Brain Korea 21 Plus Fellowship 
-        sub_title: Yonsei University
-        caption: 2021 – 2023
+      #- layout: top-left
+      #  title: Brain Korea 21 Plus Fellowship 
+      #  sub_title: Yonsei University
+      #  caption: 2021 – 2023
         
-      - layout: top-left
-        title: Yonsei Merit Academic Paper Award 
-        sub_title: Yonsei University
-        caption: 2023
+      #- layout: top-left
+      #  title: Yonsei Merit Academic Paper Award 
+      #  sub_title: Yonsei University
+      #  caption: 2023
 
-      - layout: top-left
-        title: Doctoral Student Research Fellowship
-        sub_title: National Research Foundation of Korea
-        caption: 2024-2026
-        quote: >
-          ∼ $ 40,000
+      #- layout: top-left
+      #  title: Doctoral Student Research Fellowship
+      #  sub_title: National Research Foundation of Korea
+      #  caption: 2024-2026
+      #  quote: >
+      #    ∼ $ 40,000
 
-      - layout: top-left
-        title: Excellent Academic Paper Award 
-        sub_title: Yonsei University
-        caption: 2025
+      #- layout: top-left
+      #  title: Excellent Academic Paper Award 
+      #  sub_title: Yonsei University
+      #  caption: 2025
           
 
   - title: Projects # Title for the section
