@@ -58,7 +58,7 @@ content:
         title: Yonsei University
         sub_title: Integrated course in Astronomy
         caption: 2021/03 - present
-        description: | # this will include new lines to allow paragraphs
+        quote: >
           Supervisor: Prof. Myungkook. James Jee
 
   - title: Projects # Title for the section
