@@ -25,7 +25,7 @@ googlescholar_username: LBP1JiYAAAAJ
 # Additional icon links
 additional_links:
 - title: NASA/ADS
-  icon: fas fa-a
+  icon: fas a
   url: https://ui.adsabs.harvard.edu/public-libraries/mftIqxqeSg2ElCDwWwv0jw
 # - title: another link 
 #   icon: font awesome brand icon name (eg. fab fa-twitter) (https://fontawesome.com/icons?d=gallery&s=brands&m=free)
