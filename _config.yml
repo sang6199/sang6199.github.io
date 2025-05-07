@@ -92,44 +92,20 @@ content:
 
       <span style="font-size: 20px; font-weight:bold">Doctoral Student Research Fellowship (∼ $ 40,000) </span><br/>
       <span style="font-size: 20px">National Research Foundation of Korea </span><br/>
-      2024-2026<br/><br/>
+      2024 - 2026<br/><br/>
 
       <span style="font-size: 20px; font-weight:bold">Excellent Academic Paper Award </span><br/>
       <span style="font-size: 20px">Yonsei University </span><br/>
       2025<br/><br/>
 
-  - title: Projects # Title for the section
-    layout: list # Type of content section (list/text)
-    content:
-      - layout: left
-        border: weak  # Value of `weak` will display a weak border below this item. # Any 
-                      # other value (or no value) means no border will be displayed
-        title: Project name
-        link: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
-        link_text: Link Text
-        additional_links:
-          - title:  Github page for project (eg. sproogen/modern-resume-theme)
-            icon: fab fa-github
-            url: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
-          - title:  Github page for project (eg. sproogen/modern-resume-theme)
-            icon: fab fa-github
-            url: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
-        quote: >
-          Short overview of the project (optional)
-        description: | # this will include new lines to allow paragraphs
-          Description about the work on/with the project
-  - title: Experience
-    layout: list
-    content:
-      - layout: right
-        title: Company name
-        sub_title: Job title
-        caption: Date Range (eg. November 2016 - present)
-        link: Link to company (optional)
-        quote: >
-          Short description of the company (optional)
-        description: | # this will include new lines to allow paragraphs
-          Description of role
+  - title: Military Service
+    layout: text
+    content: | # this will include new lines to allow paragraphs
+      <span style="font-size: 20px; font-weight:bold"> Korea National Police Agency Auxiliary Police </span><br/>
+      <span style="font-size: 20px"> Served as part of the mandatory military service in South Korea </span><br/>
+      2016 – 2017<br/><br/>
+
+
   - title: A Little More About Me
     layout: text
     content: | # this will include new lines to allow paragraphs
