@@ -79,7 +79,7 @@ content:
     layout: list
     content:
       - layout: left
-        title: Integrated Undergraduate-and-Graduate Program Scholarship 
+        title: <span style="font-size: 25px; font-weight:bold">Integrated Undergraduate-and-Graduate Program Scholarship </span>
         sub_title: Yonsei University
         caption: 2021 – 2023
         quote: >
