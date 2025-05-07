@@ -21,10 +21,10 @@ darkmode: false
 
 # Social links
 orcid_url: https://orcid.org/0000-0001-7148-6915
-orcid_icon_path: "Orcid_icon.png"
+orcid_icon_path: "/images/Orcid_icon.png"
 
 google_scholar_url: https://scholar.google.com/citations?user=LBP1JiYAAAAJ&hl=en&oi=ao
-google_scholar_icon_path: "klipartz.com.png"
+google_scholar_icon_path: "/images/klipartz.com.png"
 
 ads_url: https://ui.adsabs.harvard.edu/public-libraries/mftIqxqeSg2ElCDwWwv0jw
 ads_icon_path: "/images/transparent_logo.svg"
