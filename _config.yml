@@ -29,21 +29,6 @@ google_scholar_icon_path: "/images/klipartz.com.png"
 ads_url: https://ui.adsabs.harvard.edu/public-libraries/mftIqxqeSg2ElCDwWwv0jw
 ads_icon_path: "/images/transparent_logo.svg"
 
-# Additional icon links
-#additional_links:
-#- title: NASA/ADS
-#  icon: fas fa-at
-#  url: https://ui.adsabs.harvard.edu/public-libraries/mftIqxqeSg2ElCDwWwv0jw
-# - title: another link 
-#   icon: font awesome brand icon name (eg. fab fa-twitter) (https://fontawesome.com/icons?d=gallery&s=brands&m=free)
-#   url: Link url (eg. https://google.com)
-
-# Google Analytics and Tag Manager
-# Using more than one of these may cause issues with reporting
-# gtm: "GTM-0000000"
-# gtag: "UA-00000000-0"
-# google_analytics: "UA-00000000-0"
-
 # About Section
 # about_title: About Me (Use this to override about section title)
 about_profile_image: images/prof_pic.jpg 
@@ -90,10 +75,38 @@ content:
       - <ins>Weak-lensing Mass Bias in Merging Galaxy Clusters</ins>, Lee, W., **Cha, S.**, Jee, M. J., Nagai, D., King, L., ZuHone, J., Chadayammuri, U., Felix, S., Finner, K., 2023, ApJ, 945, 71. [doi.org/10.3847/1538-4357/acb76b](https://iopscience.iop.org/article/10.3847/1538-4357/acb76b)<br/><br/>
       - <ins>Weak-lensing Mass Reconstruction of Galaxy Clusters with a Convolutional Neural Network</ins>, Hong, S. E., Park, S., Jee, M. J., Bak, D., **Cha, S.**, 2021, ApJ, 923, 266. [doi.org/10.3847/1538-4357/ac3090](https://iopscience.iop.org/article/10.3847/1538-4357/ac3090)<br/><br/>
       
+  - title: Fellowship & Awards
+    layout: list
+    content:
+      - layout: top-left
+        title: Integrated Undergraduate-and-Graduate Program Scholarship 
+        sub_title: Yonsei University
+        caption: 2021 – 2023
+        quote: >
+          Three-year full-tuition
+        
+      - layout: top-left
+        title: Brain Korea 21 Plus Fellowship 
+        sub_title: Yonsei University
+        caption: 2021 – 2023
+        
+      - layout: top-left
+        title: Yonsei Merit Academic Paper Award 
+        sub_title: Yonsei University
+        caption: 2023
 
+      - layout: top-left
+        title: Doctoral Student Research Fellowship
+        sub_title: National Research Foundation of Korea
+        caption: 2024-2026
+        quote: >
+          ∼ $ 40,000
 
-
-
+      - layout: top-left
+        title: Excellent Academic Paper Award 
+        sub_title: Yonsei University
+        caption: 2025
+          
 
   - title: Projects # Title for the section
     layout: list # Type of content section (list/text)
