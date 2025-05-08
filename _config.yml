@@ -34,9 +34,9 @@ content:
   - title: Featured Publications
     layout: text
     content: | # this will include new lines to allow paragraphs
-      <span style="font-size: 20px; font-weight:bold">A High-Caliber View of the Bullet Cluster Through JWST Strong and Weak Lensing Analyses</span>
+      <span style="font-size: 25px; font-weight:bold">A High-Caliber View of the Bullet Cluster Through JWST Strong and Weak Lensing Analyses</span>
       <br/><br/>
-      ![JWST Bullet Cluster](/assets/Bullet_overlay.jpg)
+      ![JWST Bullet Cluster](/assets/Bullet_overlay.jpg){:style="float: left; margin: 0 1em 1em 0; max-width: 60%;"}
       
 
   - title: Education
