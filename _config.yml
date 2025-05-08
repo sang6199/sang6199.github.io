@@ -29,7 +29,7 @@ ads_icon_path: "/images/transparent_logo.svg"
 # about_title: About Me (Use this to override about section title)
 about_profile_image: images/prof_pic.jpg 
 about_content: | # this will include new lines to allow paragraphs
-Test text.<br/><br/>
+  Test text.<br/><br/>
 
 content:
   - title: Featured Publications
