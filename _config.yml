@@ -40,6 +40,7 @@ content:
       <br/><br/>
       ![JWST Bullet Cluster](/assets/Bullet_overlay.jpg){:style="float: left; margin: 0 1em 1em 0; max-width: 60%;"}
       Contents need to be filled. This is just a test text to check.
+      <div style="clear: both;"></div>
       <br/><br/>
 
       <span style="font-size: 25px; font-weight:bold">Precision MARS Mass Reconstruction of A2744: Synergizing the Largest Strong-lensing and Densest Weak-lensing Data Sets from JWST</span><br/>
