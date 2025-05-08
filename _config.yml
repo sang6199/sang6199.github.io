@@ -101,31 +101,31 @@ content:
   - title: Fellowship & Awards
     layout: text
     content: | # this will include new lines to allow paragraphs
-      <span style="font-size: 15px; font-weight:bold">Integrated Undergraduate-and-Graduate Program Scholarship (Three-year full-tuition) </span><br/>
-      <span style="font-size: 15px">Yonsei University </span><br/>
+      <span style="font-size: 18px; font-weight:bold">Integrated Undergraduate-and-Graduate Program Scholarship (Three-year full-tuition) </span><br/>
+      <span style="font-size: 18px">Yonsei University </span><br/>
       2021 – 2023<br/><br/>
           
-      <span style="font-size: 15px; font-weight:bold">Brain Korea 21 Plus Fellowship</span><br/>
-      <span style="font-size: 15px">Yonsei University </span><br/>
+      <span style="font-size: 18px; font-weight:bold">Brain Korea 21 Plus Fellowship</span><br/>
+      <span style="font-size: 18px">Yonsei University </span><br/>
       2021 – 2023<br/><br/>
       
-      <span style="font-size: 15px; font-weight:bold">Yonsei Merit Academic Paper Award </span><br/>
-      <span style="font-size: 15px">Yonsei University </span><br/>
+      <span style="font-size: 18px; font-weight:bold">Yonsei Merit Academic Paper Award </span><br/>
+      <span style="font-size: 18px">Yonsei University </span><br/>
       2023<br/><br/>
 
-      <span style="font-size: 15px; font-weight:bold">Doctoral Student Research Fellowship (∼ $ 40,000) </span><br/>
-      <span style="font-size: 15px">National Research Foundation of Korea </span><br/>
+      <span style="font-size: 18px; font-weight:bold">Doctoral Student Research Fellowship (∼ $ 40,000) </span><br/>
+      <span style="font-size: 18px">National Research Foundation of Korea </span><br/>
       2024 - 2026<br/><br/>
 
-      <span style="font-size: 15px; font-weight:bold">Excellent Academic Paper Award </span><br/>
-      <span style="font-size: 15px">Yonsei University </span><br/>
+      <span style="font-size: 18px; font-weight:bold">Excellent Academic Paper Award </span><br/>
+      <span style="font-size: 18px">Yonsei University </span><br/>
       2025<br/><br/>
 
   - title: Military Service
     layout: text
     content: | # this will include new lines to allow paragraphs
-      <span style="font-size: 15px; font-weight:bold"> Korea National Police Agency Auxiliary Police </span><br/>
-      <span style="font-size: 15px"> Served as part of the mandatory military service in South Korea </span><br/>
+      <span style="font-size: 18px; font-weight:bold"> Korea National Police Agency Auxiliary Police </span><br/>
+      <span style="font-size: 18px"> Served as part of the mandatory military service in South Korea </span><br/>
       2016 – 2017<br/><br/>
 
 # Footer
