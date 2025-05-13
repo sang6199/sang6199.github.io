@@ -54,7 +54,8 @@ content:
   - title: MrMARTIAN: Multi-resolution MAximum-entropy Reconstruction Technique Integrating Analytic Node
     layout: text
     content: | # this will include new lines to allow paragraphs
-    <br/><br/>
+      Introduction to MrMARTIAN.
+      <br/><br/>
 
   - title: Education
     layout: list
