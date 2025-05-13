@@ -65,7 +65,8 @@ content:
         caption: 2021/03 - present
         quote: >
           Supervisor: Prof. Myungkook. James Jee
-      
+          
+  <br/>
   - title: Full Publications
     layout: text
     content: | # this will include new lines to allow paragraphs
