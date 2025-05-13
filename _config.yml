@@ -50,12 +50,6 @@ content:
       Contents need to be filled. This is just a test text to check.
       <div style="clear: both;"></div>
       <br/><br/>
-      
-  - title: MrMARTIAN: Multi-resolution MAximum-entropy Reconstruction Technique Integrating Analytic Node
-    layout: text
-    content: | # this will include new lines to allow paragraphs
-      Introduction to MrMARTIAN will be added.
-      <br/><br/>
 
   - title: Education
     layout: list
@@ -71,6 +65,7 @@ content:
         caption: 2021/03 - present
         quote: >
           Supervisor: Prof. Myungkook. James Jee
+      <br/><br/>
       
   - title: Full Publications
     layout: text
