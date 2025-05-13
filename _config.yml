@@ -55,7 +55,10 @@ content:
     layout: text
     content: | # this will include new lines to allow paragraphs
       <span style="font-size: 25px; font-weight:bold">MrMARTIAN: Multi-resolution MAximum-entropy Reconstruction Technique Integrating Analytic Node</span><br/>
-      <br/>
+      <br/><br/>
+
+      <span style="font-size: 25px; font-weight:bold">Weak-lensing Mass Reconstruction through Convolutional Neural Network</span><br/>
+      <br/><br/>
 
   - title: Education
     layout: list
