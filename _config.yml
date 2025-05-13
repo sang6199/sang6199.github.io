@@ -54,7 +54,7 @@ content:
   - title: MrMARTIAN: Multi-resolution MAximum-entropy Reconstruction Technique Integrating Analytic Node
     layout: text
     content: | # this will include new lines to allow paragraphs
-      Introduction to MrMARTIAN.
+      Introduction to MrMARTIAN will be added.
       <br/><br/>
 
   - title: Education
@@ -68,10 +68,10 @@ content:
       - layout: top-left
         title: Yonsei University
         sub_title: Integrated course in Astronomy
-        caption: 2021/03 - present
+        caption: 2021/03 - present<br/><br/>
         quote: >
           Supervisor: Prof. Myungkook. James Jee
-      <br/><br/>
+     
       
   - title: Full Publications
     layout: text
