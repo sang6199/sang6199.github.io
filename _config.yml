@@ -40,7 +40,7 @@ content:
       <span style="font-size: 25px; font-weight:bold">A High-Caliber View of the Bullet Cluster Through JWST Strong and Weak Lensing Analyses</span><br/>
       <span style="font-size: 20px; font-style: italic">Accepted in</span> <span style="font-size: 20px; font-weight:bold">The Astrophysical Journal Letters</span>, <span style="font-size: 20px">[arXiv:2503.21870](https://arxiv.org/abs/2503.21870){:target="_blank"}</span><br/>
       <br/>
-      ![JWST Bullet Cluster](/assets/Bullet_overlay.jpg){:style="float: left; margin: 0 1em 1em 0; max-width: 60%;"}<br/><br/><br/><br/><br/><br/>
+      ![JWST Bullet Cluster](/assets/Bullet_overlay.jpg){:style="float: left; margin: 0 1em 1em 0; max-width: 60%;"}<br/><br/><br/>
       <span style="font-size: 17px">The Bullet Cluster is one of the most famous merging galaxy clusters. Using high-resolution JWST imaging, we have reconstructed its mass distribution by combining strong and weak gravitational lensing data. The left figure presents a multi-wavelength view of the Bullet Cluster. Our advanced JWST-based lensing analysis can offer new insights into the dynamics of galaxy cluster mergers and the nature of dark matter.</span>
       <div style="clear: both;"></div>
       <br/><br/>
@@ -48,8 +48,8 @@ content:
       <span style="font-size: 25px; font-weight:bold">Precision MARS Mass Reconstruction of A2744: Synergizing the Largest Strong-lensing and Densest Weak-lensing Data Sets from JWST</span><br/>
       <span style="font-size: 20px; font-style: italic">Published in</span> <span style="font-size: 20px; font-weight:bold">The Astrophysical Journal</span>, <span style="font-size: 20px">[doi.org/10.3847/1538-4357/ad0cbf](https://iopscience.iop.org/article/10.3847/1538-4357/ad0cbf){:target="_blank"}</span><br/>
       <br/>
-      ![JWST Bullet Cluster](/assets/A2744_JWST.jpg){:style="float: right; margin: 0 1em 1em 0; max-width: 60%;"}
-      Contents need to be filled. This is just a test text to check.
+      ![JWST Bullet Cluster](/assets/A2744_JWST.jpg){:style="float: right; margin: 0 1em 1em 0; max-width: 60%;"}<br/><br/><br/>
+      <span style="font-size: 17px">Abell 2744, also known as Pandora’s Cluster, is famous for its complex merging substructures. Using deep JWST observations of strong and weak gravitational lensing, we have reconstructed a high-resolution map of Abell 2744. The right figure shows mass contours from our analysis, revealing two mass bridges. With the orientation of observed radio relics, we propose the merger axes of Abell 2744.</span>
       <div style="clear: both;"></div>
       <br/><br/>
 
