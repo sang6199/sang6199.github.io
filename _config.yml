@@ -42,6 +42,7 @@ content:
       <br/>
       ![JWST Bullet Cluster](/assets/Bullet_overlay.jpg){:style="float: left; margin: 0 1em 1em 0; max-width: 60%;"}
       <span style="font-size: 17px>The Bullet Cluster is one of the most famous merging galaxy clusters. Using high-resolution JWST imaging, we have reconstructed its mass distribution by combining strong and weak gravitational lensing data. The left figure presents a multi-wavelength view of the Bullet Cluster. Our advanced JWST-based lensing analysis can offer new insights into the dynamics of galaxy cluster mergers and the nature of dark matter.</span>
+      <div style="clear: both;"></div>
       <br/><br/>
 
       <span style="font-size: 25px; font-weight:bold">Precision MARS Mass Reconstruction of A2744: Synergizing the Largest Strong-lensing and Densest Weak-lensing Data Sets from JWST</span><br/>
