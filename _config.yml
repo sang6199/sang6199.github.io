@@ -29,7 +29,9 @@ ads_icon_path: "/images/transparent_logo.svg"
 # about_title: About Me (Use this to override about section title)
 about_profile_image: images/prof_pic.jpg 
 about_content: | # this will include new lines to allow paragraphs
-  Test text.<br/><br/>
+  I am a Ph.D. candidate in Astronomy at Yonsei University. I work on galaxy clusters using gravitational lensing. My research interests include modeling techniques for gravitational lensing analysis, large-scale structures, and the study of massive galaxy clusters. |
+  I have developed lensing modeling algorithms such as MARS (MAximum-entropy ReconStruction) and MrMARTIAN (Multi-resolution MAximum-entropy Reconstruction Technique Integrating Analytic Node). I have also built a wide-field weak lensing mass reconstruction algorithm based on deep learning. |
+  My current interests include the multiwavelength analysis of galaxy clusters—using X-ray, radio, and intracluster light—to investigate the connection between baryonic and dark matter components, as well as the evolutionary history of galaxy clusters.<br/>
 
 content:
   - title: Featured Publications
