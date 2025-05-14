@@ -40,7 +40,7 @@ content:
       <span style="font-size: 25px; font-weight:bold">A High-Caliber View of the Bullet Cluster Through JWST Strong and Weak Lensing Analyses</span><br/>
       <span style="font-size: 20px; font-style: italic">Accepted in</span> <span style="font-size: 20px; font-weight:bold">The Astrophysical Journal Letters</span>, <span style="font-size: 20px">[arXiv:2503.21870](https://arxiv.org/abs/2503.21870){:target="_blank"}</span><br/>
       <br/>
-      ![JWST Bullet Cluster](/assets/Bullet_overlay.jpg){:style="float: left; margin: 0 1em 1em 0; max-width: 60%;"}
+      ![JWST Bullet Cluster](/assets/Bullet_overlay.jpg){:style="float: left; margin: 0 1em 1em 0; max-width: 60%;"}<br/><br/><br/><br/><br/><br/>
       <span style="font-size: 17px">The Bullet Cluster is one of the most famous merging galaxy clusters. Using high-resolution JWST imaging, we have reconstructed its mass distribution by combining strong and weak gravitational lensing data. The left figure presents a multi-wavelength view of the Bullet Cluster. Our advanced JWST-based lensing analysis can offer new insights into the dynamics of galaxy cluster mergers and the nature of dark matter.</span>
       <div style="clear: both;"></div>
       <br/><br/>
@@ -67,6 +67,10 @@ content:
         caption: 2021/03 - present
         quote: >
           Supervisor: Prof. Myungkook. James Jee
+          
+      - layout: top-left
+        content: |-
+        <br/><br/>
           
   - title: Full Publications
     layout: text
