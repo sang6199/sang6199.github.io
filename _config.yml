@@ -68,10 +68,6 @@ content:
         quote: >
           Supervisor: Prof. Myungkook. James Jee
           
-    layout: text
-    content: |
-    <br/><br/>
-          
   - title: Full Publications
     layout: text
     content: | # this will include new lines to allow paragraphs
