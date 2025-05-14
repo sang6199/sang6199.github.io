@@ -68,9 +68,9 @@ content:
         quote: >
           Supervisor: Prof. Myungkook. James Jee
           
-      - layout: top-left
-        content: |-
-        <br/><br/>
+    layout: list
+    content: |-
+    <br/><br/>
           
   - title: Full Publications
     layout: text
