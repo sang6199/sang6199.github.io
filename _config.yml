@@ -94,6 +94,7 @@ content:
   - title: Talks
     layout: text
     content: | # this will include new lines to allow paragraphs
+      - **2025** JWST Lensing Analysis of Merging Galaxy Clusters: The Bullet Cluster and Abell 2744 / ASIAA / Taiwan
       - **2025** Probing Galaxy Cluster Mergers by Combining Strong and Weak Gravitational Lensing in the JWST Era / MPA / Germany
       - **2024** Probing Galaxy Clusters by Combining Strong and Weak Gravitational Lensing in the JWST Era / NOIRLab, University of Arizona / USA
       - **2024** Probing Galaxy Clusters by Combining Strong and Weak Lensing in the JWST Era: Mass Reconstruction of Abell 2744 / The 11th KIAS Workshop on Cosmology and Structure Formation / South Korea / Contributed
