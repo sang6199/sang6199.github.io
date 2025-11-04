@@ -72,6 +72,11 @@ content:
   - title: Full Publications
     layout: text
     content: | # this will include new lines to allow paragraphs
+      <span style="font-size: 25px; font-weight:bold">Publication Statistics</span>
+      18 total refereed/under-reveiw papers. 
+      **6 first-author papers** (5 refereed, 1 under review)
+      **4 second or third author** and **8 co-author papers** (7 refereed, 5 under review)
+      <br/><br/>
       <span style="font-size: 25px; font-weight:bold">First Author</span>
       <br/><br/>
       - <ins>MrMARTIAN: A Multi-resolution Mass Reconstruction Algorithm Combining Free-form and Analytic Components,</ins>, **Cha, S.**, Jee, M. J., 2025, [arXiv:2508.13262](https://arxiv.org/abs/2508.13262){:target="_blank"}, submitted to ApJ<br/><br/>
