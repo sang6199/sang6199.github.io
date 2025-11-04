@@ -73,9 +73,9 @@ content:
     layout: text
     content: | # this will include new lines to allow paragraphs
       <span style="font-size: 25px; font-weight:bold">Publication Statistics</span>
-      18 total refereed/under-reveiw papers. 
-      **6 first-author papers** (5 refereed, 1 under review)
-      **4 second or third author** and **8 co-author papers** (7 refereed, 5 under review)
+      18 total refereed/under-reveiw papers<br/> 
+      **6 first-author papers** (5 refereed, 1 under review)<br/>
+      **4 second or third author** and **8 co-author papers** (7 refereed, 5 under review)<br/>
       <br/><br/>
       
       <span style="font-size: 25px; font-weight:bold">First Author</span>
