@@ -110,6 +110,7 @@ content:
   - title: Talks
     layout: text
     content: | # this will include new lines to allow paragraph
+      - **2026** BCG-Halo Offset Freedom and Time Delay Predictions in Cluster Strong Lensing: A Free-form Perspective / Cluster Time-Delay Cosmography Workshop (Spring Edition) / USA / Contributed
       - **2026** High-Precision Mapping of Dark Matter in Galaxy Clusters Through Strong and Weak Lensing with Deep Learning / 2026 KAS Spring Meeting / South Korea / Contributed
       - **2025** Probing Dark Matter and Cluster Merger with JWST Strong and Weak Lensing: Case Studies of the Bullet Cluster and Abell 2744 / 33rd Texas Symposium on Relativistic Astrophysics / USA / Contributed
       - **2025** Weak-lensing Detection and Reconstruction of Filamentary Structures in the Rubin Era: A Case Study of Abell 2744 / Korean Rubin Science Workshop 2025 / South Korea / Contributed
