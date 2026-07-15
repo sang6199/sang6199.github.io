@@ -256,6 +256,33 @@ button:focus-visible {
   text-align: left;
 }
 
+.hero__contact {
+  max-width: 920px;
+  margin-top: 14px;
+  color: rgba(255, 255, 255, 0.68);
+}
+
+.hero__contact p,
+.hero__contact address {
+  margin: 0;
+  color: inherit;
+  font-size: 1.38rem;
+  font-style: normal;
+  line-height: 1.55;
+  text-align: left;
+}
+
+.hero__contact a {
+  color: inherit;
+  text-decoration-color: rgba(255, 255, 255, 0.38);
+  text-underline-offset: 3px;
+}
+
+.hero__contact a:hover,
+.hero__contact a:focus {
+  color: rgba(255, 255, 255, 0.92);
+}
+
 .hero__credit {
   position: absolute;
   right: 12px;
@@ -582,6 +609,50 @@ button:focus-visible {
   color: var(--ink);
 }
 
+.background-list {
+  border-top: 1px solid var(--line);
+}
+
+.background-entry {
+  padding: 26px 0;
+  border-bottom: 1px solid var(--line);
+  display: grid;
+  grid-template-columns: minmax(210px, 280px) minmax(0, 1fr);
+  gap: 32px;
+}
+
+.background-entry h3 {
+  margin: 0;
+  padding: 0;
+  border: 0;
+  color: var(--ink);
+  font-size: 2rem;
+  font-weight: 600;
+  line-height: 1.35;
+  text-align: left;
+}
+
+.background-entry__details p {
+  margin: 0;
+  color: var(--muted);
+  font-size: 1.58rem;
+  line-height: 1.55;
+  text-align: left;
+}
+
+.background-entry__details p + p {
+  margin-top: 3px;
+}
+
+.background-entry__details .background-entry__affiliation {
+  color: var(--ink);
+  font-weight: 500;
+}
+
+.background-entry__period {
+  margin-top: 7px !important;
+}
+
 #publications li {
   margin-bottom: 12px;
   padding-left: 4px;
@@ -801,6 +872,16 @@ button:focus-visible {
     font-size: 1.7rem;
   }
 
+  .hero__contact {
+    margin-top: 12px;
+  }
+
+  .hero__contact p,
+  .hero__contact address {
+    font-size: 1.26rem;
+    line-height: 1.5;
+  }
+
   .hero__credit {
     right: 10px;
     bottom: 7px;
@@ -852,6 +933,11 @@ button:focus-visible {
   .research-themes li {
     grid-template-columns: 1fr;
     gap: 4px;
+  }
+
+  .background-entry {
+    grid-template-columns: 1fr;
+    gap: 8px;
   }
 
   .profile-img {

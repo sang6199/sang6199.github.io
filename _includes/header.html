@@ -21,6 +21,7 @@
 
       <div id="site-menu" class="site-nav__menu">
         <a href="{{ '/' | relative_url }}#about"{% if page.home %} aria-current="location"{% endif %}>About</a>
+        <a href="{{ '/education-experience/' | relative_url }}"{% if page.url == '/education-experience/' %} aria-current="page"{% endif %}>Education &amp; Experience</a>
         <a href="{{ '/research/' | relative_url }}"{% if page.url == '/research/' %} aria-current="page"{% endif %}>Research</a>
         <a href="{{ '/publications/' | relative_url }}"{% if page.url == '/publications/' %} aria-current="page"{% endif %}>Publications</a>
         {%- if site.cv_url -%}

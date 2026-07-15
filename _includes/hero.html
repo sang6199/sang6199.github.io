@@ -13,6 +13,11 @@
   <div class="hero__inner">
     <h1 id="hero-title">{{ site.name | escape }}</h1>
     <p class="hero__role">{{ site.hero_role | default: site.title | escape }}</p>
+    <div class="hero__contact">
+      <p>{{ site.hero_department | escape }}</p>
+      <address>{{ site.address | escape }}</address>
+      <p>Email: <a href="mailto:{{ site.email | escape }}">{{ site.email | escape }}</a></p>
+    </div>
   </div>
 
   {% if site.hero_image_credit_label %}
