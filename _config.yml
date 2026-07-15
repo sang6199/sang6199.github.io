@@ -4,7 +4,7 @@ repository: Git repository where your resume will be hosted, only required if yo
 
 # Content configuration version
 version: 2
-asset_version: "20260715-12"
+asset_version: "20260715-13"
 
 # Personal info
 name: Sangjun Cha
