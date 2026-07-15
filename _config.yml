@@ -4,7 +4,7 @@ repository: Git repository where your resume will be hosted, only required if yo
 
 # Content configuration version
 version: 2
-asset_version: "20260715-11"
+asset_version: "20260715-12"
 
 # Personal info
 name: Sangjun Cha
@@ -84,8 +84,7 @@ content:
     layout: history
     content:
       - title: EACOA Fellow
-        affiliation: Academia Sinica Institute of Astronomy and Astrophysics
-        location: Taipei, Taiwan
+        affiliation: Academia Sinica Institute of Astronomy and Astrophysics (ASIAA), Taipei, Taiwan
         period: Starting September 2026
 
   - title: Education

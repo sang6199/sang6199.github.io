@@ -258,17 +258,21 @@ button:focus-visible {
 
 .hero__contact {
   max-width: 920px;
-  margin-top: 14px;
-  color: rgba(255, 255, 255, 0.68);
+  margin-top: 16px;
+  color: rgba(255, 255, 255, 0.82);
+  font-size: clamp(1.75rem, 1.85vw, 2.1rem);
+  font-weight: 400;
+  letter-spacing: 0.015em;
+  line-height: 1.5;
 }
 
 .hero__contact p,
 .hero__contact address {
   margin: 0;
   color: inherit;
-  font-size: 1.38rem;
+  font-size: inherit;
   font-style: normal;
-  line-height: 1.55;
+  line-height: inherit;
   text-align: left;
 }
 
@@ -621,6 +625,10 @@ button:focus-visible {
   gap: 32px;
 }
 
+.background-entry:last-child {
+  border-bottom: 0;
+}
+
 .background-entry h3 {
   margin: 0;
   padding: 0;
@@ -873,12 +881,12 @@ button:focus-visible {
   }
 
   .hero__contact {
-    margin-top: 12px;
+    margin-top: 14px;
+    font-size: 1.7rem;
   }
 
   .hero__contact p,
   .hero__contact address {
-    font-size: 1.26rem;
     line-height: 1.5;
   }
 
@@ -1040,6 +1048,10 @@ button:focus-visible {
 
   .hero h1,
   .hero__role {
+    color: #111111;
+  }
+
+  .hero__contact {
     color: #111111;
   }
 
