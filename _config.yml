@@ -4,13 +4,20 @@ repository: Git repository where your resume will be hosted, only required if yo
 
 # Content configuration version
 version: 2
+asset_version: "20260715-10"
 
 # Personal info
 name: Sangjun Cha
-title: Graduate student (Ph.D candidate)
+title: Ph.D. Candidate in Astronomy
+hero_role: "Ph.D. Candidate in Astronomy · Yonsei University"
 email: sang6199(at)yonsei.ac.kr
 address: Department of Astronomy, Yonsei University, 637B Science Hall, 50 Yonsei-ro, Seodaemun-gu, Seoul, 03722, South Korea 
 cv_url: "/assets/cv.pdf"
+
+# Hero banner
+hero_image: "/assets/Bullet_overlay.jpg"
+hero_image_credit_label: "Cha et al. (2025)"
+hero_image_credit_url: "https://doi.org/10.3847/2041-8213/add2f0"
 
 # Dark Mode (true/false/never)
 darkmode: false
@@ -29,32 +36,50 @@ ads_icon_path: "/images/transparent_logo.svg"
 # about_title: About Me (Use this to override about section title)
 about_profile_image: images/prof_pic.jpg 
 about_content: | # this will include new lines to allow paragraphs
-  I am a Ph.D. candidate in Astronomy at Yonsei University, specializing in gravitational lensing and galaxy clusters. My research focuses on developing free-form and hybrid lensing algorithms to map mass distributions from cluster cores to large-scale structures. I am the developer of **MARS (MAximum-entropy ReconStruction) and MrMARTIAN (Multi-resolution MAximum-entropy Reconstruction Technique Integrating Analytic Node)**, lensing reconstruction frameworks that **use automatic differentiation and deep-learning optimizers to efficiently explore high-dimensional parameter spaces**.
-  
-  I apply these methods to multiwavelength observations, including JWST, HST, X-ray, and radio data, to study the interplay between baryonic and dark matter components, the physics of cluster mergers, and the cosmological information that can be inferred from lensing geometry. I also develop deep learning–based weak-lensing mass mapping techniques for next-generation wide-field surveys.
+  I am a Ph.D. candidate in Astronomy at Yonsei University studying galaxy clusters and dark matter through gravitational lensing. I develop MARS and MrMARTIAN, two lensing mass reconstruction methods. I apply them to strong and weak lensing observations from JWST, HST, and wide field imaging surveys. My work maps mass across a broad range of scales, from dense cluster cores to intracluster filaments. By combining lensing mass reconstruction with multiwavelength observations, I study how massive galaxy clusters assemble and evolve.
+
+# Research overview
+research_overview: >-
+  My research uses gravitational lensing to map dark matter across a broad range of scales, from galaxy cluster cores to the surrounding cosmic web. I develop lensing mass reconstruction algorithms and apply them to deep and wide-field imaging. I use galaxy distributions, intracluster light, X-ray, and radio observations to interpret the resulting mass maps. These analyses probe cluster mass structure, merger geometry, and the connection between cluster cores and their larger scale environments.
+
+research_themes:
+  - title: Merging clusters and dark matter
+    description: I use JWST strong and weak lensing observations and HST, X-ray, radio, and intracluster light data to reconstruct mass structure and study merger geometry in systems such as the Bullet Cluster and Abell 2744.
+  - title: Cluster outskirts and filamentary structure
+    description: I use weak lensing over wide fields to detect and characterize intracluster filaments and to connect cluster mass structure with the surrounding large scale structure. I also develop deep learning tools for mass mapping in future surveys.
+  - title: Mass reconstruction methods
+    description: I develop MARS and MrMARTIAN, which provide free form and hybrid approaches to cluster lensing mass reconstruction. They use maximum entropy regularization, automatic differentiation, and modern optimization techniques to explore large parameter spaces.
 
 content:
   - title: Featured Publications
+    id: research
     layout: text
     content: | # this will include new lines to allow paragraphs
-      <span style="font-size: 25px; font-weight:bold">A High-Caliber View of the Bullet Cluster Through JWST Strong and Weak Lensing Analyses</span><br/>
-      <span style="font-size: 20px; font-style: italic">Published in</span> <span style="font-size: 20px; font-weight:bold">The Astrophysical Journal Letters</span>, <span style="font-size: 20px">[doi.org/10.3847/2041-8213/add2f0](https://iopscience.iop.org/article/10.3847/2041-8213/add2f0){:target="_blank"}</span><br/>
-      <span style="font-size: 20px; font-style: italic">NASA press release</span>, <span style="font-size: 20px">[Link to the article](https://science.nasa.gov/missions/webb/nasa-webb-pierces-bullet-cluster-refines-its-mass/){:target="_blank"}</span><br/>
-      <br/>
-      ![JWST Bullet Cluster](/assets/Bullet_overlay.jpg){:style="float: left; margin: 0 1em 1em 0; max-width: 60%;"}<br/><br/><br/><br/>
-      <span style="font-size: 17px">The Bullet Cluster is one of the most famous merging galaxy clusters. Using high-resolution JWST imaging, we have reconstructed its mass distribution by combining strong and weak gravitational lensing data. The left figure presents a multi-wavelength view of the Bullet Cluster. Our advanced JWST-based lensing analysis can offer new insights into the dynamics of galaxy cluster mergers and the nature of dark matter.</span>
-      <div style="clear: both;"></div>
-      <br/><br/>
+      <article class="featured-publication">
+        <h3 class="featured-publication__title">A High-Caliber View of the Bullet Cluster Through JWST Strong and Weak Lensing Analyses</h3>
+        <div class="featured-publication__meta">
+          <p><em>Published in</em> <strong>The Astrophysical Journal Letters</strong>, <a href="https://iopscience.iop.org/article/10.3847/2041-8213/add2f0" target="_blank" rel="noopener">doi.org/10.3847/2041-8213/add2f0</a></p>
+          <p><em>NASA press release</em> · <a href="https://science.nasa.gov/missions/webb/nasa-webb-pierces-bullet-cluster-refines-its-mass/" target="_blank" rel="noopener">View article</a></p>
+        </div>
+        <div class="featured-publication__body">
+          <img src="/assets/Bullet_overlay.jpg" alt="JWST view of the Bullet Cluster" loading="lazy">
+          <p>The clear offset between the gravitational lensing mass distribution and the X-ray emitting hot gas in the Bullet Cluster provided direct empirical evidence for the existence of dark matter. Using JWST strong and weak lensing observations, we reconstructed a detailed map of its projected mass distribution and examined the mass structure and merger geometry of the system. Our analysis also revealed a strong morphological similarity between the intracluster light and the lensing mass distribution.</p>
+        </div>
+      </article>
 
-      <span style="font-size: 25px; font-weight:bold">Precision MARS Mass Reconstruction of A2744: Synergizing the Largest Strong-lensing and Densest Weak-lensing Data Sets from JWST</span><br/>
-      <span style="font-size: 20px; font-style: italic">Published in</span> <span style="font-size: 20px; font-weight:bold">The Astrophysical Journal</span>, <span style="font-size: 20px">[doi.org/10.3847/1538-4357/ad0cbf](https://iopscience.iop.org/article/10.3847/1538-4357/ad0cbf){:target="_blank"}</span><br/>
-      <br/>
-      ![JWST Abell 2744](/assets/A2744_JWST.jpeg){:style="float: right; margin: 0 0 1em 1.5em; max-width: 60%;"}<br/><br/><br/><br/>
-      <span style="font-size: 17px">Abell 2744, also known as Pandora’s Cluster, is famous for its complex merging substructures. Using deep JWST observations of strong and weak gravitational lensing, we have reconstructed a high-resolution map of Abell 2744. The right figure shows mass contours from our analysis, revealing two mass bridges. With the orientation of observed radio relics, we propose the merger axes of Abell 2744.</span>
-      <div style="clear: both;"></div>
-      <br/>
+      <article class="featured-publication featured-publication--reverse">
+        <h3 class="featured-publication__title">Precision MARS Mass Reconstruction of A2744: Synergizing the Largest Strong-lensing and Densest Weak-lensing Data Sets from JWST</h3>
+        <div class="featured-publication__meta">
+          <p><em>Published in</em> <strong>The Astrophysical Journal</strong>, <a href="https://iopscience.iop.org/article/10.3847/1538-4357/ad0cbf" target="_blank" rel="noopener">doi.org/10.3847/1538-4357/ad0cbf</a></p>
+        </div>
+        <div class="featured-publication__body">
+          <img src="/assets/A2744_JWST.jpeg" alt="JWST mass reconstruction of Abell 2744" loading="lazy">
+          <p>Abell 2744, also known as Pandora’s Cluster, is a complex merging system containing multiple mass components. Using deep JWST strong and weak lensing observations, we reconstructed a high-resolution map of its projected mass distribution. The map reveals two mass bridges connecting the main mass clumps. With the orientation of observed radio relics, we propose the merger axes of Abell 2744. In a subsequent study (<a href="https://arxiv.org/abs/2604.07445" target="_blank" rel="noopener">link</a>), we found that the directions of intracluster filament candidates around Abell 2744 are broadly consistent with these merger axes.</p>
+        </div>
+      </article>
 
   - title: Education
+    id: education
     layout: list
     content:
       - layout: top-left
@@ -70,17 +95,17 @@ content:
           Supervisor: Prof. Myungkook. James Jee
           
   - title: Full Publications
+    id: publications
     layout: text
     content: | # this will include new lines to allow paragraphs
-      <span style="font-size: 25px; font-weight:bold">Publication Statistics</span>
-      <br/>
-      25 total refereed/under-review papers<br/> 
-      **7 first-author papers** (6 refereed, 1 under review)<br/>
-      **4 second or third author** and **14 co-author papers** (16 refereed, 2 under review)<br/>
-      <br/><br/>
-      
-      <span style="font-size: 25px; font-weight:bold">First Author</span>
-      <br/><br/>
+      <h3 class="publication-subheading">Publication Statistics</h3>
+      <div class="publication-stats">
+        <div><strong>25</strong> total refereed/under-review papers</div>
+        <div><strong>7</strong> first-author papers (6 refereed, 1 under review)</div>
+        <div><strong>4</strong> second or third author and <strong>14</strong> co-author papers (16 refereed, 2 under review)</div>
+      </div>
+
+      <h3 class="publication-subheading">First Author</h3>
       - <ins>Weak-lensing Analysis of Intracluster Filaments in Abell 2744: Matched-filter Scans and Stepwise 2D Tracing</ins>, **Cha, S.**, Finner, K., Jee, M. J., Grazian, A., 2026, [arXiv:2604.07445](https://arxiv.org/abs/2604.07445){:target="_blank"}, submitted to ApJ <br/><br/>
       - <ins>MrMARTIAN: A Multi-resolution Mass Reconstruction Algorithm Combining Free-form and Analytic Components</ins>, **Cha, S.**, Jee, M. J., 2026, ApJ, 997, 18. [doi.org/10.3847/1538-4357/ae2258](https://iopscience.iop.org/article/10.3847/1538-4357/ae2258){:target="_blank"}<br/><br/>
       - <ins>A High-Caliber View of the Bullet Cluster Through JWST Strong and Weak Lensing Analyses</ins>, **Cha, S.**, Cho, B. Y., Joo, H., Lee, W., HyeongHan, K., Scofield, Z. P., Finner, K., Jee, M. J., 2025, ApJL, 987, L15. [doi.org/10.3847/2041-8213/add2f0](https://iopscience.iop.org/article/10.3847/2041-8213/add2f0){:target="_blank"}<br/><br/>
@@ -89,8 +114,7 @@ content:
       - <ins>Model-independent Mass Reconstruction of the Hubble Frontier Field Clusters with MARS Based on Self-consistent Strong-lensing data</ins>, **Cha, S.**, Jee, M. J., 2023, ApJ, 951, 140. [doi.org/10.3847/1538-4357/acd111](https://iopscience.iop.org/article/10.3847/1538-4357/acd111){:target="_blank"}<br/><br/>
       - <ins>MARS: A New Maximum-entropy-regularized Strong Lensing Mass Reconstruction Method</ins>, **Cha, S.**, Jee, M. J., 2022, ApJ, 931, 127. [doi.org/10.3847/1538-4357/ac69df](https://iopscience.iop.org/article/10.3847/1538-4357/ac69df){:target="_blank"}<br/><br/><br/><br/>
             
-      <span style="font-size: 25px; font-weight:bold">Co-Author</span>
-      <br/><br/>
+      <h3 class="publication-subheading">Co-Author</h3>
       - <ins>A new H<sub>0</sub> measurement with SNe Requiem and Encore using Gravity.jl</ins>, Bazzanini, L., Di Rosa, G., Acebron, A., Bergamini, P., Lombardi, M., Rosati, P., Angora, G., Caminha, G. B., Ertl, S., Granata, G., Koekemoer, A. M., Suyu, S. H., Pierel, J., Newman, A. B., Grillo, C., Schuldt, S., Bulla, M., **Cha, S.**, D'Addona, M., Diego, J. M., Fogliardi, M., Frye, B. L., Jee, M. J., Kamieneski, P. S., Meneghetti, M., Mercurio, A., and Vanzella, E., 2026, [arXiv:2606.25205](https://arxiv.org/abs/2606.25205){:target="_blank"}, submitted to A&A<br/><br/>
       - <ins>The baryonic mass budgets in the central regions of the Bullet Cluster and their consistency with MONDian strong lensing</ins>, Zhang, D., Haghi, H., Asencio, E., Banik, I., Zonoozi, A. H., **Cha, S.**, Cho, B. Y., Joo, H., Kroupa, P., Lazutkina, A., and Gjergo, E., 2026, PRD, 114, 023001. [doi.org/10.1103/6zrp-q7c4](https://doi.org/10.1103/6zrp-q7c4){:target="_blank"}<br/><br/>
       - <ins>Dark and Luminous Matter in the Coma Cluster: Probing Galaxy Cluster Assembly Through Filaments with Weak Lensing and Multiwavelength Observations</ins>, HyeongHan, K., Finner, K., Jee, M. J., Lee, W., Jiménez-Teja, Y.,**Cha, S.**, Kang, W., Hwang, H. S., Cho, H., Churazov, E., Khabibullin, I., Lyskova, N., Sunyaev, R., Bykov, A. M., 2026, [arXiv:2606.12523](https://arxiv.org/abs/2606.12523v1){:target="_blank"}, submitted to A&A<br/><br/>
@@ -111,6 +135,7 @@ content:
       - <ins>Weak-lensing Mass Reconstruction of Galaxy Clusters with a Convolutional Neural Network</ins>, Hong, S. E., Park, S., Jee, M. J., Bak, D., **Cha, S.**, 2021, ApJ, 923, 266. [doi.org/10.3847/1538-4357/ac3090](https://iopscience.iop.org/article/10.3847/1538-4357/ac3090){:target="_blank"}<br/>
 
   - title: Talks
+    id: talks
     layout: text
     content: | # this will include new lines to allow paragraph
       - **2026** Stepwise 2D Tracing and Matched-filter Scans for the Analysis of Intracluster Filaments in Abell 2744: A Two-track Strategy for Wide-field Surveys / EAS 2026 / Swiss / Contributed
@@ -134,6 +159,7 @@ content:
       <br/>
       
   - title: Fellowship & Awards
+    id: awards
     layout: text
     content: | # this will include new lines to allow paragraphs
       <span style="font-size: 18px; font-weight:bold">Integrated Undergraduate-and-Graduate Program Scholarship (Three-year full-tuition) </span><br/>
@@ -158,6 +184,7 @@ content:
       2024<br/>
 
   - title: Military Service
+    id: service
     layout: text
     content: | # this will include new lines to allow paragraphs
       <span style="font-size: 18px; font-weight:bold"> Korea National Police Agency Auxiliary Police </span><br/>

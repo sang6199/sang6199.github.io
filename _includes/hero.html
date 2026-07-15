@@ -1,0 +1,24 @@
+<section class="hero" aria-labelledby="hero-title">
+  <img
+    class="hero__media"
+    src="{{ site.hero_image | default: '/assets/Bullet_overlay.jpg' | relative_url }}"
+    alt=""
+    width="2970"
+    height="2470"
+    decoding="async"
+    fetchpriority="high"
+  >
+  <div class="hero__overlay" aria-hidden="true"></div>
+
+  <div class="hero__inner">
+    <h1 id="hero-title">{{ site.name | escape }}</h1>
+    <p class="hero__role">{{ site.hero_role | default: site.title | escape }}</p>
+  </div>
+
+  {% if site.hero_image_credit_label %}
+    <p class="hero__credit">
+      Image Credit:
+      <a href="{{ site.hero_image_credit_url }}" target="_blank" rel="noopener">{{ site.hero_image_credit_label | escape }}</a>
+    </p>
+  {% endif %}
+</section>
