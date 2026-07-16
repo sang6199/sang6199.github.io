@@ -21,8 +21,7 @@
 
   {% if site.hero_image_credit_label %}
     <p class="hero__credit">
-      Image Credit:
-      <a href="{{ site.hero_image_credit_url }}" target="_blank" rel="noopener">{{ site.hero_image_credit_label | escape }}</a>
+      Image: <a href="{{ site.hero_image_credit_url }}" target="_blank" rel="noopener">{{ site.hero_image_credit_label | escape }}</a>{% if site.hero_image_credit_data %}; Data: {{ site.hero_image_credit_data | escape }}{% endif %}
     </p>
   {% endif %}
 </section>

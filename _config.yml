@@ -19,6 +19,7 @@ cv_url: "/assets/cv.pdf"
 hero_image: "/assets/Bullet_overlay.jpg"
 hero_image_credit_label: "Cha et al. (2025)"
 hero_image_credit_url: "https://doi.org/10.3847/2041-8213/add2f0"
+hero_image_credit_data: "JWST (NASA/ESA/CSA/STScI), DECam (CTIO/NOIRLab/NSF/AURA), Chandra (NASA/CXC), MeerKAT (SARAO)"
 
 # Dark Mode (true/false/never)
 darkmode: false
