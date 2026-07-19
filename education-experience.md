@@ -17,6 +17,7 @@ permalink: /education-experience/
             {% if item.location %}<p>{{ item.location }}</p>{% endif %}
             <p class="background-entry__period">{{ item.period }}</p>
             {% if item.detail %}<p>{{ item.detail }}</p>{% endif %}
+            {% if item.note %}<p class="background-entry__note">{{ item.note }}</p>{% endif %}
           </div>
         </article>
       {% endfor %}
@@ -34,6 +35,7 @@ permalink: /education-experience/
             {% if item.location %}<p>{{ item.location }}</p>{% endif %}
             <p class="background-entry__period">{{ item.period }}</p>
             {% if item.detail %}<p>{{ item.detail }}</p>{% endif %}
+            {% if item.note %}<p class="background-entry__note">{{ item.note }}</p>{% endif %}
           </div>
         </article>
       {% endfor %}
