@@ -8,11 +8,11 @@ asset_version: "20260719-15"
 
 # Personal info
 name: Sangjun Cha
-title: Ph.D. Candidate in Astronomy
-hero_role: "Ph.D. Candidate in Astronomy · Yonsei University"
-email: sang6199@yonsei.ac.kr
-hero_department: "Department of Astronomy, Yonsei University"
-address: "637B Science Hall · 50 Yonsei-ro · Seodaemun-gu · Seoul 03722 · Republic of Korea"
+title: Postdoctoral Researcher
+hero_role: "Postdoctoral Researcher · EACOA Fellow at ASIAA"
+email: scha@asiaa.sinica.edu.tw
+hero_department: "Academia Sinica Institute of Astronomy and Astrophysics (ASIAA)"
+address: "Room 1207 · Astronomy-Mathematics Building, AS/NTU · No. 1, Sec. 4, Roosevelt Rd. · Taipei 106319 · Taiwan, R.O.C."
 cv_url: "/assets/cv.pdf"
 
 # Hero banner
@@ -38,7 +38,7 @@ ads_icon_path: "/images/transparent_logo.svg"
 # about_title: About Me (Use this to override about section title)
 about_profile_image: images/prof_pic.jpg 
 about_content: | # this will include new lines to allow paragraphs
-  I am a Ph.D. candidate in Astronomy at Yonsei University studying galaxy clusters and dark matter through gravitational lensing. I develop MARS and MrMARTIAN, two lensing mass reconstruction methods. I apply them to strong and weak lensing observations from JWST, HST, and wide field imaging surveys. My work maps mass across a broad range of scales, from dense cluster cores to intracluster filaments. By combining lensing mass reconstruction with multiwavelength observations, I study how massive galaxy clusters assemble and evolve.
+  I am a postdoctoral researcher and EACOA Fellow at the Academia Sinica Institute of Astronomy and Astrophysics (ASIAA), studying galaxy clusters and dark matter through gravitational lensing. I develop MARS and MrMARTIAN, two lensing mass reconstruction methods. I apply them to strong and weak lensing observations from JWST, HST, and wide field imaging surveys. My work maps mass across a broad range of scales, from dense cluster cores to intracluster filaments. By combining lensing mass reconstruction with multiwavelength observations, I study how massive galaxy clusters assemble and evolve.
 
 # Research overview
 research_overview: >-
@@ -86,7 +86,7 @@ content:
     content:
       - title: EACOA Fellow
         affiliation: Academia Sinica Institute of Astronomy and Astrophysics (ASIAA), Taipei, Taiwan
-        period: Starting September 2026
+        period: September 2026 – Present
         detail: "PI: Prof. Keiichi Umetsu"
 
   - title: Education
