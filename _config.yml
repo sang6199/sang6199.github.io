@@ -76,7 +76,7 @@ content:
         </div>
         <div class="featured-publication__body">
           <img src="/assets/A2744_JWST.jpeg" alt="JWST mass reconstruction of Abell 2744" loading="lazy">
-          <p>Abell 2744, also known as Pandora’s Cluster, is a complex merging system containing multiple mass components. Using deep JWST strong and weak lensing observations, we reconstructed a high-resolution map of its projected mass distribution. The map reveals two mass bridges connecting the main mass clumps. With the orientation of observed radio relics, we propose the merger axes of Abell 2744. In a subsequent study (<a href="https://arxiv.org/abs/2604.07445" target="_blank" rel="noopener">link</a>), we found that the directions of intracluster filament candidates around Abell 2744 are broadly consistent with these merger axes.</p>
+          <p>Abell 2744, also known as Pandora’s Cluster, is a complex merging system containing multiple mass components. Using deep JWST strong and weak lensing observations, we reconstructed a high-resolution map of its projected mass distribution. The map reveals two mass bridges connecting the main mass clumps. With the orientation of observed radio relics, we propose the merger axes of Abell 2744. In a subsequent study (<a href="https://iopscience.iop.org/article/10.3847/1538-4357/ae9fe8" target="_blank" rel="noopener">link</a>), we found that the directions of intracluster filament candidates around Abell 2744 are broadly consistent with these merger axes.</p>
         </div>
       </article>
 
@@ -114,7 +114,7 @@ content:
       </div>
 
       <h3 class="publication-subheading">First Author</h3>
-      - <ins>Weak-lensing Analysis of Intracluster Filaments in Abell 2744: Matched-filter Scans and Stepwise 2D Tracing</ins>, **Cha, S.**, Finner, K., Jee, M. J., Grazian, A., 2026, [arXiv:2604.07445](https://arxiv.org/abs/2604.07445){:target="_blank"}, accepted for publication in ApJ <br/><br/>
+      - <ins>Weak-lensing Analysis of Intracluster Filaments in A2744: Matched-filter Scans and Stepwise 2D Tracing</ins>, **Cha, S.**, Finner, K., Jee, M. J., Grazian, A., 2026, ApJ, 1009, 93. [doi.org/10.3847/1538-4357/ae9fe8](https://iopscience.iop.org/article/10.3847/1538-4357/ae9fe8){:target="_blank"}<br/><br/>
       - <ins>MrMARTIAN: A Multi-resolution Mass Reconstruction Algorithm Combining Free-form and Analytic Components</ins>, **Cha, S.**, Jee, M. J., 2026, ApJ, 997, 18. [doi.org/10.3847/1538-4357/ae2258](https://iopscience.iop.org/article/10.3847/1538-4357/ae2258){:target="_blank"}<br/><br/>
       - <ins>A High-Caliber View of the Bullet Cluster Through JWST Strong and Weak Lensing Analyses</ins>, **Cha, S.**, Cho, B. Y., Joo, H., Lee, W., HyeongHan, K., Scofield, Z. P., Finner, K., Jee, M. J., 2025, ApJL, 987, L15. [doi.org/10.3847/2041-8213/add2f0](https://iopscience.iop.org/article/10.3847/2041-8213/add2f0){:target="_blank"}<br/><br/>
       - <ins>Weak-lensing Mass Reconstruction of Galaxy Clusters with a Convolutional Neural Network. II. Application to Next-Generation Wide-Field Surveys</ins>, **Cha, S.**, Jee, M. J., Hong, S. E., Park, S., Bak, D., Kim, T., 2025, ApJ, 981, 52. [doi.org/10.3847/1538-4357/adb1b7](https://iopscience.iop.org/article/10.3847/1538-4357/adb1b7){:target="_blank"}<br/><br/>
