@@ -4,7 +4,7 @@ repository: Git repository where your resume will be hosted, only required if yo
 
 # Content configuration version
 version: 2
-asset_version: "20260719-15"
+asset_version: "20260923-16"
 
 # Personal info
 name: Sangjun Cha
@@ -52,6 +52,17 @@ research_themes:
   - title: Mass reconstruction methods
     description: I develop MARS and MrMARTIAN, which provide free form and hybrid approaches to cluster lensing mass reconstruction. They use maximum entropy regularization, automatic differentiation, and modern optimization techniques to explore large parameter spaces.
 
+# Downloadable research products
+research_products:
+  - title: Abell 2744 Lensing Mass Map
+    reference: "Precision MARS Mass Reconstruction of A2744: Synergizing the Largest Strong-lensing and Densest Weak-lensing Data Sets from JWST, The Astrophysical Journal, 961, 186 (2024)"
+    reference_url: https://iopscience.iop.org/article/10.3847/1538-4357/ad0cbf
+    drive_url: https://drive.google.com/drive/folders/1YSRWSMVZdraDe6X59PLHk4ymITopS8D0?usp=sharing
+  - title: Bullet Cluster Lensing Mass Map
+    reference: "A High-Caliber View of the Bullet Cluster Through JWST Strong and Weak Lensing Analyses, The Astrophysical Journal Letters, 987, L15 (2025)"
+    reference_url: https://iopscience.iop.org/article/10.3847/2041-8213/add2f0
+    drive_url: https://drive.google.com/drive/folders/1bv--WbOcuHSHiJ6EzE5Kv6e_nRmHvI2B?usp=sharing
+
 content:
   - title: Featured Publications
     id: research
@@ -65,7 +76,7 @@ content:
         </div>
         <div class="featured-publication__body">
           <img src="/assets/Bullet_overlay.jpg" alt="JWST view of the Bullet Cluster" loading="lazy">
-          <p>The clear offset between the gravitational lensing mass distribution and the X-ray emitting hot gas in the Bullet Cluster provided direct empirical evidence for the existence of dark matter. Using JWST strong and weak lensing observations, we reconstructed a detailed map of its projected mass distribution and examined the mass structure and merger geometry of the system. Our analysis also revealed a strong morphological similarity between the intracluster light and the lensing mass distribution.</p>
+          <p>The clear offset between the gravitational lensing mass distribution and the X-ray emitting hot gas in the Bullet Cluster provided direct empirical evidence for the existence of dark matter. Using JWST strong and weak lensing observations, we reconstructed a detailed map of its projected mass distribution and examined the mass structure and merger geometry of the system. Our analysis also revealed a strong morphological similarity between the intracluster light and the lensing mass distribution.<span class="featured-publication__product-link"><a href="https://drive.google.com/drive/folders/1bv--WbOcuHSHiJ6EzE5Kv6e_nRmHvI2B?usp=sharing" target="_blank" rel="noopener noreferrer">Lensing mass map</a></span></p>
         </div>
       </article>
 
@@ -76,7 +87,7 @@ content:
         </div>
         <div class="featured-publication__body">
           <img src="/assets/A2744_JWST.jpeg" alt="JWST mass reconstruction of Abell 2744" loading="lazy">
-          <p>Abell 2744, also known as Pandora’s Cluster, is a complex merging system containing multiple mass components. Using deep JWST strong and weak lensing observations, we reconstructed a high-resolution map of its projected mass distribution. The map reveals two mass bridges connecting the main mass clumps. With the orientation of observed radio relics, we propose the merger axes of Abell 2744. In a subsequent study (<a href="https://iopscience.iop.org/article/10.3847/1538-4357/ae9fe8" target="_blank" rel="noopener">link</a>), we found that the directions of intracluster filament candidates around Abell 2744 are broadly consistent with these merger axes.</p>
+          <p>Abell 2744, also known as Pandora’s Cluster, is a complex merging system containing multiple mass components. Using deep JWST strong and weak lensing observations, we reconstructed a high-resolution map of its projected mass distribution. The map reveals two mass bridges connecting the main mass clumps. With the orientation of observed radio relics, we propose the merger axes of Abell 2744. In a subsequent study (<a href="https://iopscience.iop.org/article/10.3847/1538-4357/ae9fe8" target="_blank" rel="noopener">link</a>), we found that the directions of intracluster filament candidates around Abell 2744 are broadly consistent with these merger axes.<span class="featured-publication__product-link"><a href="https://drive.google.com/drive/folders/1YSRWSMVZdraDe6X59PLHk4ymITopS8D0?usp=sharing" target="_blank" rel="noopener noreferrer">Lensing mass map</a></span></p>
         </div>
       </article>
 
