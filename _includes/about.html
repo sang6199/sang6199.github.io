@@ -30,8 +30,11 @@
           {%- if site.ads_url -%}
             <li>
               <a href="{{ site.ads_url }}" target="_blank" rel="noopener noreferrer">
-                <img src="{{ site.ads_icon_path | relative_url }}" alt="" width="24" height="24">
-                <span>NASA ADS</span><span aria-hidden="true">&#8599;</span>
+                <picture>
+                  <source srcset="{{ site.ads_icon_light_path | relative_url }}" media="(prefers-color-scheme: light)">
+                  <img src="{{ site.ads_icon_path | relative_url }}" alt="" width="24" height="24">
+                </picture>
+                <span>SciX</span><span aria-hidden="true">&#8599;</span>
               </a>
             </li>
           {%- endif -%}

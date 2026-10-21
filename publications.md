@@ -28,9 +28,12 @@ permalink: /publications/
         {%- endif -%}
         {%- if site.ads_url -%}
           <li>
-            <a href="{{ site.ads_url }}" target="_blank" rel="noopener noreferrer" aria-label="NASA ADS" title="NASA ADS">
-              <img src="{{ site.ads_icon_path | relative_url }}" alt="">
-              <span class="publication-profiles__label">NASA ADS</span>
+            <a href="{{ site.ads_url }}" target="_blank" rel="noopener noreferrer" aria-label="SciX" title="SciX">
+              <picture>
+                <source srcset="{{ site.ads_icon_light_path | relative_url }}" media="(prefers-color-scheme: light)">
+                <img src="{{ site.ads_icon_path | relative_url }}" alt="">
+              </picture>
+              <span class="publication-profiles__label">SciX</span>
               <span class="publication-profiles__arrow" aria-hidden="true">&#8599;</span>
             </a>
           </li>

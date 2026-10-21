@@ -31,8 +31,9 @@ orcid_icon_path: "/images/Orcid_icon.png"
 google_scholar_url: https://scholar.google.com/citations?user=LBP1JiYAAAAJ&hl=en&oi=ao
 google_scholar_icon_path: "/images/klipartz.com.png"
 
-ads_url: https://ui.adsabs.harvard.edu/public-libraries/mftIqxqeSg2ElCDwWwv0jw
-ads_icon_path: "/images/transparent_logo.svg"
+ads_url: https://scixplorer.org/public-libraries/mftIqxqeSg2ElCDwWwv0jw
+ads_icon_path: "/images/scix-icon.svg"
+ads_icon_light_path: "/images/scix-icon-light.svg"
 
 # About Section
 # about_title: About Me (Use this to override about section title)
