@@ -13,7 +13,7 @@ hero_role: "Postdoctoral Researcher · EACOA Fellow at ASIAA"
 email: scha@asiaa.sinica.edu.tw
 hero_department: "Academia Sinica Institute of Astronomy and Astrophysics (ASIAA)"
 address: "Room 1207 · Astronomy-Mathematics Building, AS/NTU · No. 1, Sec. 4, Roosevelt Rd. · Taipei 106319 · Taiwan, R.O.C."
-cv_url: "/assets/cv.pdf?v=20261102"
+cv_url: "/assets/cv.pdf?v=20261113"
 
 # Hero banner
 hero_image: "/assets/Bullet_overlay.jpg"
@@ -39,19 +39,19 @@ ads_icon_light_path: "/images/scix-icon-light.svg"
 # about_title: About Me (Use this to override about section title)
 about_profile_image: images/prof_pic.jpg 
 about_content: | # this will include new lines to allow paragraphs
-  I am a postdoctoral researcher and EACOA Fellow at the Academia Sinica Institute of Astronomy and Astrophysics (ASIAA), studying galaxy clusters and dark matter through gravitational lensing. I develop MARS and MrMARTIAN, two lensing mass reconstruction methods. I apply them to strong and weak lensing observations from JWST, HST, and wide field imaging surveys. My work maps mass across a broad range of scales, from dense cluster cores to intracluster filaments. By combining lensing mass reconstruction with multiwavelength observations, I study how massive galaxy clusters assemble and evolve.
+  I am a postdoctoral researcher and EACOA Fellow at the Academia Sinica Institute of Astronomy and Astrophysics (ASIAA), studying galaxy clusters and dark matter through gravitational lensing. I develop MARS and MrMARTIAN, two lensing mass reconstruction methods, and apply them to JWST, HST, and wide-field observations. I use strong and weak lensing to map mass distributions from dense cluster cores to the surrounding large-scale structure. By combining lensing mass reconstruction with multiwavelength observations, I study how massive galaxy clusters assemble and evolve.
 
 # Research overview
 research_overview: >-
-  My research uses gravitational lensing to map dark matter across a broad range of scales, from galaxy cluster cores to the surrounding cosmic web. I develop lensing mass reconstruction algorithms and apply them to deep and wide-field imaging. I use galaxy distributions, intracluster light, X-ray, and radio observations to interpret the resulting mass maps. These analyses probe cluster mass structure, merger geometry, and the connection between cluster cores and their larger scale environments.
+  My research uses gravitational lensing to study dark matter in galaxy clusters and their surrounding large-scale structure. I develop lensing mass reconstruction algorithms and apply them to deep and wide-field observations. I use galaxy distributions, intracluster light, X-ray, and radio observations to interpret the lensing mass maps of galaxy clusters. These analyses probe cluster mass structure, merger geometry, and how cluster assembly and evolution are connected to the surrounding large-scale structure.
 
 research_themes:
-  - title: Merging clusters and dark matter
-    description: I use JWST strong and weak lensing observations and HST, X-ray, radio, and intracluster light data to reconstruct mass structure and study merger geometry in systems such as the Bullet Cluster and Abell 2744.
-  - title: Cluster outskirts and filamentary structure
-    description: I use weak lensing over wide fields to detect and characterize intracluster filaments and to connect cluster mass structure with the surrounding large scale structure. I also develop deep learning tools for mass mapping in future surveys.
+  - title: Galaxy clusters and dark matter
+    description: I use JWST and HST strong and weak lensing observations to reconstruct the mass distributions of galaxy clusters, such as the Bullet Cluster and Abell 2744. I combine lensing mass maps with X-ray, radio, and intracluster light observations to investigate dark matter structure, merger geometry, and the distributions of dark matter and baryonic matter.
+  - title: Large-scale structure around galaxy clusters
+    description: I use wide-field weak lensing to extend my analysis to cluster outskirts and surrounding filaments. By comparing lensing mass maps with galaxy distributions, spectroscopic observations, and other tracers of large-scale structure, I investigate how galaxy clusters are connected to their surrounding environments and how these connections relate to cluster assembly.
   - title: Mass reconstruction methods
-    description: I develop MARS and MrMARTIAN, which provide free form and hybrid approaches to cluster lensing mass reconstruction. They use maximum entropy regularization, automatic differentiation, and modern optimization techniques to explore large parameter spaces.
+    description: I develop MARS and MrMARTIAN, which provide free-form and hybrid approaches to cluster lensing mass reconstruction. They use maximum-entropy regularization, automatic differentiation, and modern optimization techniques to explore large parameter spaces. I also develop deep learning methods for weak lensing mass mapping in wide-field surveys.
 
 # Downloadable research products
 research_products:
@@ -99,7 +99,7 @@ content:
       - title: EACOA Fellow
         affiliation: Academia Sinica Institute of Astronomy and Astrophysics (ASIAA), Taipei, Taiwan
         period: September 2026 – Present
-        detail: "PI: Prof. Keiichi Umetsu"
+        detail: "Host: Prof. Keiichi Umetsu"
 
   - title: Education
     id: education
