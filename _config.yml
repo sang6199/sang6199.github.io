@@ -92,6 +92,22 @@ content:
         </div>
       </article>
 
+      <article class="featured-publication featured-publication--video">
+        <h3 class="featured-publication__title">MARS: A New Maximum-entropy-regularized Strong Lensing Mass Reconstruction Method</h3>
+        <div class="featured-publication__meta">
+          <p><em>Published in</em> <strong>The Astrophysical Journal</strong>, <a href="https://iopscience.iop.org/article/10.3847/1538-4357/ac69df" target="_blank" rel="noopener">doi.org/10.3847/1538-4357/ac69df</a></p>
+        </div>
+        <div class="featured-publication__body">
+          <p>MARS is a free-form gravitational lens modeling method to reconstruct the mass distributions of galaxy clusters without assuming analytic mass density profiles. MARS uses lensing constraints and maximum-entropy regularization to reconstruct flexible mass structures while suppressing overfitting.</p>
+
+          <video class="featured-publication__video" width="1920" height="834" controls playsinline preload="metadata" aria-label="MARS reconstruction of Abell 1689" aria-describedby="mars-video-description">
+            <source src="/assets/videos/MARS_A1689_reconstruction.m4v" type="video/mp4">
+            Your browser does not support embedded video. <a href="/assets/videos/MARS_A1689_reconstruction.m4v">Download the MARS reconstruction video</a>.
+          </video>
+          <p class="featured-publication__video-caption" id="mars-video-description">The video shows the MARS reconstruction of Abell 1689, with the convergence map being reconstructed on the left and the corresponding SL multiple image positions in the source plane on the right. As the reconstruction progresses, the multiple images of each source converge toward a common source plane position. The video ends with the final convergence map overlaid on an optical image of Abell 1689, showing good agreement between the mass map and the spatial distribution of cluster member galaxies.</p>
+        </div>
+      </article>
+
   - title: Experience
     id: experience
     layout: history

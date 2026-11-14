@@ -565,6 +565,24 @@ button:focus-visible {
   hyphens: auto;
 }
 
+.featured-publication--video .featured-publication__body {
+  display: block;
+}
+
+.featured-publication__video {
+  display: block;
+  width: 100%;
+  max-width: 100%;
+  height: auto;
+  margin-top: 24px;
+  border-radius: 6px;
+  background: #000;
+}
+
+.featured-publication__body .featured-publication__video-caption {
+  margin-top: 14px;
+}
+
 .featured-publication__product-link {
   margin-top: 10px;
   display: block;
