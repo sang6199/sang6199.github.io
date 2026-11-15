@@ -13,7 +13,7 @@ hero_role: "Postdoctoral Researcher · EACOA Fellow at ASIAA"
 email: scha@asiaa.sinica.edu.tw
 hero_department: "Academia Sinica Institute of Astronomy and Astrophysics (ASIAA)"
 address: "Room 1207 · Astronomy-Mathematics Building, AS/NTU · No. 1, Sec. 4, Roosevelt Rd. · Taipei 106319 · Taiwan, R.O.C."
-cv_url: "/assets/cv.pdf?v=20261115"
+cv_url: "/assets/cv.pdf?v=20261115-2"
 
 # Hero banner
 hero_image: "/assets/Bullet_overlay.jpg"
@@ -153,7 +153,7 @@ content:
             
       <h3 class="publication-subheading">Co-Author</h3>
       - <ins>Self-interacting Dark Matter signatures from stars extremely magnified by galaxy clusters</ins>, Li, S. K., He, Y., Zhong, Y.-M., Diego, J. M., Lim, J., Alfred, A., Broadhurst, T., **Cha, S.**, Dhanasingham, B., Fung, L. W. H., Kelly, P., Massey, R., Morilla, P., Palencia, J. M., Perera, D., Williams, L. L. R., 2026, [arXiv:2611.14800](https://arxiv.org/abs/2611.14800){:target="_blank"}<br/><br/>
-      - <ins>A new H<sub>0</sub> measurement with SNe Requiem and Encore using Gravity.jl</ins>, Bazzanini, L., Di Rosa, G., Acebron, A., Bergamini, P., Lombardi, M., Rosati, P., Angora, G., Caminha, G. B., Ertl, S., Granata, G., Koekemoer, A. M., Suyu, S. H., Pierel, J., Newman, A. B., Grillo, C., Schuldt, S., Bulla, M., **Cha, S.**, D'Addona, M., Diego, J. M., Fogliardi, M., Frye, B. L., Jee, M. J., Kamieneski, P. S., Meneghetti, M., Mercurio, A., and Vanzella, E., 2026, [arXiv:2606.25205](https://arxiv.org/abs/2606.25205){:target="_blank"}, accepted for publication in A&A<br/><br/>
+      - <ins>A new H<sub>0</sub> measurement with supernovae Requiem and Encore using Gravity.jl</ins>, Bazzanini, L., Di Rosa, G., Acebron, A., Bergamini, P., Lombardi, M., Rosati, P., Angora, G., Caminha, G. B., Ertl, S., Granata, G., Koekemoer, A. M., Suyu, S. H., Pierel, J., Newman, A. B., Grillo, C., Schuldt, S., Bulla, M., **Cha, S.**, D'Addona, M., Diego, J. M., Fogliardi, M., Frye, B. L., Jee, M. J., Kamieneski, P. S., Meneghetti, M., Mercurio, A., and Vanzella, E., 2026, A&A, 715, A162. [doi.org/10.1051/0004-6361/202661611](https://www.aanda.org/articles/aa/full_html/2026/11/aa61611-26/aa61611-26.html){:target="_blank"}<br/><br/>
       - <ins>The baryonic mass budgets in the central regions of the Bullet Cluster and their consistency with MONDian strong lensing</ins>, Zhang, D., Haghi, H., Asencio, E., Banik, I., Zonoozi, A. H., **Cha, S.**, Cho, B. Y., Joo, H., Kroupa, P., Lazutkina, A., and Gjergo, E., 2026, PRD, 114, 023001. [doi.org/10.1103/6zrp-q7c4](https://doi.org/10.1103/6zrp-q7c4){:target="_blank"}<br/><br/>
       - <ins>Dark and Luminous Matter in the Coma Cluster: Probing Galaxy Cluster Assembly Through Filaments with Weak Lensing and Multiwavelength Observations</ins>, HyeongHan, K., Finner, K., Jee, M. J., Lee, W., Jiménez-Teja, Y., **Cha, S.**, Kang, W., Hwang, H. S., Cho, H., Churazov, E., Khabibullin, I., Lyskova, N., Sunyaev, R., Bykov, A. M., 2026, [arXiv:2606.12523](https://arxiv.org/abs/2606.12523v1){:target="_blank"}, submitted to A&A<br/><br/>
       - <ins>Mature but Still Growing: JWST Detection of the Earliest Intracluster Light at z ~ 2</ins>, Joo, H., Jee, M. J., Finner, K., Scofield, Z. P., **Cha, S.**, Kim, J., Chary, R.-R., Faisst, A., Lee, B., 2026, ApJL, 1002, L17. [doi.org/10.3847/2041-8213/ae5c9f](https://iopscience.iop.org/article/10.3847/2041-8213/ae5c9f){:target="_blank"}<br/><br/>
